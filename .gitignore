@@ -1,0 +1,7 @@
+node_modules/
+dist/
+smoke-output/
+# アプリ本体だけを管理する（テスト・設計メモ・画面テストの台本はこの PC の中だけに置く）
+test/
+docs/
+scripts/smoke.js
